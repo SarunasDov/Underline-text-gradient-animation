@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Source+Pro+code:wght@200&display=swap");
+@import url("https://fonts.googleapis.com.css2?family=Source+Code+Pro:wght@200&display=swap");
 
 body {
   display: flex;
@@ -17,7 +17,7 @@ body {
 
 .container p {
   max-width: 20rem;
-  padding: 1rem 0Srem;
+  padding: 1rem 0rem;
 }
 
 .container h1 {
@@ -34,6 +34,6 @@ body {
   text-decoration: none;
 }
 
-.my_link {
+.my_link:hover {
   background-size: 100% 3px;
 }
